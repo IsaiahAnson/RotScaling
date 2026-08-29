@@ -2,6 +2,8 @@
 
 # RotScaling
 
+[**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/RotScaling/)
+
 A difficulty mod for **Grain Rot** (UE 5.7) built on [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).
 
 Grain Rot gets easier the deeper you go. Your gear and stats outgrow the curve, and dungeon enemies stop being a threat. RotScaling puts the threat back by scaling every enemy with the dungeon level.

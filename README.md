@@ -1,8 +1,8 @@
-<img src="icon.png" width="128" align="right" alt="RotScaling icon">
-
 # RotScaling
 
 [**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/RotScaling/)
+
+<img src="icon.png" width="120" align="right" alt="RotScaling icon">
 
 A difficulty mod for **Grain Rot** (UE 5.7) built on [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).
 

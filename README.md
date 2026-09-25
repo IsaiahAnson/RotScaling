@@ -78,4 +78,7 @@ No timers, no key polling, no hotkeys, and no external processes.
 
 ## License
 
-MIT - see [LICENSE](LICENSE).
+Copyright (c) 2026 Isaiah Anson. All rights reserved. You may use the released software for
+personal, non-commercial use; copying, modifying or redistributing it requires written
+permission. See [LICENSE](LICENSE).
+

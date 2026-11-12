@@ -1,8 +1,6 @@
-# RotScaling
+<img src="https://raw.githubusercontent.com/IsaiahAnson/rot-scaling/main/assets/banner.svg" width="100%" alt="RotScaling, a Grain Rot mod by Mentalize. Enemies get tougher the deeper you go. Host only, Speed and crit capped, UE4SS.">
 
-[**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/RotScaling/)
-
-<img src="icon.png" width="120" align="right" alt="RotScaling icon">
+<a href="https://thunderstore.io/c/grain-rot/p/Mentalize/RotScaling/"><img src="https://raw.githubusercontent.com/IsaiahAnson/rot-scaling/stats/downloads.svg" width="100%" alt="Download count and latest version on Thunderstore. Get it on Thunderstore."></a>
 
 A difficulty mod for **Grain Rot** (UE 5.7) built on [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).
 
